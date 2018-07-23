@@ -41,4 +41,10 @@ input[value] {
 #eql {
 	background-color: red;
 }
+@media screen and (max-width: 600px) {
+    #container {
+        width: 98%;
+        margin: 10px auto;
+    }
+}
 
